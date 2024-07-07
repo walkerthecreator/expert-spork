@@ -3,3 +3,9 @@ console.log('hello')
 
 
 // new content 
+
+function add(a , b){
+    console.log(a + b)
+}
+
+add()
